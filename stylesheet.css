@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+  font-family: "Minecraft Regular";
+  src: url("Assets/MinecraftRegular.otf");
+}
+@font-face {
+  font-family: "Minecraft Bold";
+  src: url("Assets/MinecraftBold.otf");
+}
+
+h1 {
+	font-family: "Minecraft Bold";
+}
+
+p1 {
+	font-family: "Minecraft Regular";
+}
