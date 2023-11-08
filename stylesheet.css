@@ -10,12 +10,20 @@
 }
 
 h1 {
+<<<<<<< HEAD
 	font-family: "Minecraft Bold";
 	text-align: center;
 }
 
 p {
 	font-family: "Minecraft Regular";
+=======
+    font-family: "Minecraft Bold", serif;
+}
+
+p {
+    font-family: "Minecraft Regular", serif;
+>>>>>>> Wonders-of-the-World/main
 }
 img {
   display: block;
