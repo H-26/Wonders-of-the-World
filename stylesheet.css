@@ -11,8 +11,15 @@
 
 h1 {
 	font-family: "Minecraft Bold";
+	text-align: center;
 }
 
-p1 {
+p {
 	font-family: "Minecraft Regular";
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 95vw;
 }
