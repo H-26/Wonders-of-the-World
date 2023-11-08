@@ -10,9 +10,9 @@
 }
 
 h1 {
-	font-family: "Minecraft Bold";
+    font-family: "Minecraft Bold", serif;
 }
 
-p1 {
-	font-family: "Minecraft Regular";
+p {
+    font-family: "Minecraft Regular", serif;
 }
