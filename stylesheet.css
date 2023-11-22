@@ -16,6 +16,35 @@ h1 {
 
 p {
 	font-family: "Minecraft Regular", serif;
+	padding: 14px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	font-family: "Minecraft Regular", serif;
+}
+
+li {
+  	float: left;
+	font-family: "Minecraft Regular", serif;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	color: #B7865C;
+}
+
+.active {
+	color: #56952C;
 }
 
 img {
